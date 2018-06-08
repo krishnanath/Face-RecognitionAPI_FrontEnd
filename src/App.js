@@ -139,6 +139,30 @@ class App extends Component {
              : <Register loadUser={this.loadUser} onRouteChange={this.onRouteChange}/>
             )
         }
+        
+
+
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+        <a href="https://www.linkedin.com/in/krishnanath/" target="_blank">
+  <div id="link">
+    <i class="fab fa-codepen"></i>
+    <p class="new">By Krishnanath Maly</p>
+  </div>
+</a>
+
       </div>
     );
   }

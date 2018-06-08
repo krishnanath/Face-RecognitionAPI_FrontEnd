@@ -15,3 +15,14 @@
   left: 0;
   z-index: -1;
 }
+
+a {
+  text-decoration: none;
+}
+a:hover h3{
+  text-decoration: underline;
+}
+
+.new {
+  color: black;
+}

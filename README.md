@@ -9,6 +9,6 @@ Final project for Udemy course
 You can grab Clarifai API key [here](https://www.clarifai.com/)
 
 
-I love you ANJTIHA 
+ 
 
  
